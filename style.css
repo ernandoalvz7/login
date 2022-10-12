@@ -11,6 +11,7 @@ body {
   background-image: url(wallpaper.jpg);
   background-size: cover;
   background-position-y: -100px;
+  background-attachment: fixed;
 }
 textarea:focus, input:focus{
   outline: none;
