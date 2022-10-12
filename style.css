@@ -10,7 +10,7 @@
 body {
   background-image: url(wallpaper.jpg);
   
-  background-position-y: -80px;
+
   background-size: cover;
 }
 textarea:focus, input:focus{
